@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: mambo
+        psr4_prefix: mambo
+        src_path: app
